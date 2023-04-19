@@ -1,0 +1,2 @@
+# studybud
+Simple Django project 
